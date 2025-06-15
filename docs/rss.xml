@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://UI-Buddy.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://UI-Buddy.github.io</link></image><lastBuildDate>Sun, 15 Jun 2025 15:34:14 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Gmeek FMHY Test.</title><link>https://UI-Buddy.github.io/post/Gmeek%20FMHY%20Test..html</link><description>Hello! this is a test of GMEEK to see if it should be added on [FMHY](https://fmhy.net/).
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://UI-Buddy.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://UI-Buddy.github.io</link></image><lastBuildDate>Sun, 15 Jun 2025 15:38:54 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Another Test.</title><link>https://UI-Buddy.github.io/post/Another%20Test..html</link><description>Another Test without any markdown just to deploy another post.
+
+While you're here, go use [fmhy](https://fmhy.net) or something its a peak megathread
+
+and play bomb rush cyberfunk :P 
+
+or something idk。</description><guid isPermaLink="true">https://UI-Buddy.github.io/post/Another%20Test..html</guid><pubDate>Sun, 15 Jun 2025 15:38:23 +0000</pubDate></item><item><title>Gmeek FMHY Test.</title><link>https://UI-Buddy.github.io/post/Gmeek%20FMHY%20Test..html</link><description>Hello! this is a test of GMEEK to see if it should be added on [FMHY](https://fmhy.net/).
 
 # Example
 ## Example
